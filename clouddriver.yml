@@ -115,3 +115,22 @@ kubernetes:
     oauthScopes: []
     oAuthScopes: []
     onlySpinnakerManaged: false
+  - name: k8saccount
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces: []
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/opsmxuser/.kube/config
+    checkPermissionsOnStartup: false
+    liveManifestCalls: false
+    oauthScopes: []
+    oAuthScopes: []
+    onlySpinnakerManaged: false
