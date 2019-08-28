@@ -14,7 +14,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: false
     oauthScopes: []
@@ -33,7 +33,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: false
     oauthScopes: []
@@ -52,7 +52,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: false
     oauthScopes: []
@@ -71,7 +71,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: false
     oauthScopes: []
@@ -90,7 +90,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: false
     oauthScopes: []
@@ -109,7 +109,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: false
     oauthScopes: []
@@ -128,7 +128,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: false
     oauthScopes: []
@@ -147,7 +147,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -166,7 +166,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -185,7 +185,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -204,7 +204,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -223,7 +223,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -242,7 +242,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -261,7 +261,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -280,7 +280,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -299,7 +299,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -318,7 +318,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -337,7 +337,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -356,7 +356,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -375,7 +375,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -394,7 +394,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -413,7 +413,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -432,7 +432,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -451,7 +451,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -470,7 +470,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -489,7 +489,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -508,7 +508,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -527,7 +527,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -546,7 +546,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -565,7 +565,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -584,7 +584,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -603,7 +603,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -622,7 +622,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -641,7 +641,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -660,7 +660,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -679,7 +679,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -698,7 +698,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -717,7 +717,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -736,7 +736,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -755,7 +755,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -774,7 +774,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -793,7 +793,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -812,7 +812,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -831,7 +831,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -850,7 +850,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -869,7 +869,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -888,7 +888,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -907,7 +907,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -926,7 +926,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -945,7 +945,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -964,7 +964,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -983,7 +983,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1002,7 +1002,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1021,7 +1021,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1040,7 +1040,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1059,7 +1059,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1078,7 +1078,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1097,7 +1097,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1116,7 +1116,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1135,7 +1135,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1154,7 +1154,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1173,7 +1173,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1192,7 +1192,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1211,7 +1211,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1230,7 +1230,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1249,7 +1249,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1268,7 +1268,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1287,7 +1287,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1306,7 +1306,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1325,7 +1325,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1344,7 +1344,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1363,7 +1363,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1382,7 +1382,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1401,7 +1401,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1420,7 +1420,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1439,7 +1439,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1458,7 +1458,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1477,7 +1477,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1496,7 +1496,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1515,7 +1515,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1534,7 +1534,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1553,7 +1553,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1572,7 +1572,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1591,7 +1591,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1610,7 +1610,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1629,7 +1629,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1648,7 +1648,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1667,7 +1667,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1686,7 +1686,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1705,7 +1705,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1724,7 +1724,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1743,7 +1743,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1762,7 +1762,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1781,7 +1781,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1800,7 +1800,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1819,7 +1819,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1838,7 +1838,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1857,7 +1857,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1876,7 +1876,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1895,7 +1895,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1914,7 +1914,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
@@ -1933,7 +1933,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/opsmxuser/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     liveManifestCalls: true
     oauthScopes: []
