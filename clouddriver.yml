@@ -19,7 +19,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -41,7 +41,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -63,7 +63,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -85,7 +85,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -107,7 +107,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -129,7 +129,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -151,7 +151,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -173,7 +173,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -195,7 +195,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -217,7 +217,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -239,7 +239,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -261,7 +261,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -283,7 +283,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -305,7 +305,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -327,7 +327,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -349,7 +349,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -371,7 +371,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -393,7 +393,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -415,7 +415,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -437,7 +437,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -459,7 +459,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -481,7 +481,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -503,7 +503,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -525,7 +525,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -547,7 +547,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -569,7 +569,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -591,7 +591,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -613,7 +613,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -635,7 +635,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -657,7 +657,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -679,7 +679,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -701,7 +701,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -723,7 +723,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -745,7 +745,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -767,7 +767,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -789,7 +789,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -811,7 +811,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -833,7 +833,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -855,7 +855,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -877,7 +877,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -899,7 +899,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -921,7 +921,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -943,7 +943,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -965,7 +965,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -987,7 +987,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -1009,7 +1009,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -1031,7 +1031,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -1053,7 +1053,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -1075,7 +1075,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -1097,7 +1097,7 @@ kubernetes:
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
