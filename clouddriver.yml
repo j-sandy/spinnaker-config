@@ -1,23 +1,1103 @@
 kubernetes:
   enabled: true
   accounts:
-  - name: openshifth-70
+  - name: k8s-v2-acc-1
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
     dockerRegistries: []
     configureImagePullSecrets: true
     cacheThreads: 1
-    namespaces: 
-     - default
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
     omitNamespaces: []
     kinds: []
     omitKinds: []
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
     checkPermissionsOnStartup: false
-    liveManifestCalls: false
-    oauthScopes: []
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-2
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+      - ns11
+      - ns12
+      - ns13
+      - ns14
+      - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-3
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-4
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-5
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-6
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-7
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-8
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-9
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-10
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-11
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-12
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-13
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-14
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-15
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-16
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-17
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-18
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-19
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-20
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+      - ns11
+      - ns12
+      - ns13
+      - ns14
+      - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-21
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-22
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-23
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-24
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-25
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-26
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-27
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-28
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-29
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-30
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-31
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-32
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-33
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-34
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-35
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-36
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-37
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-38
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-39
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-40
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-41
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-42
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-43
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-44
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-45
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-46
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-47
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-48
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-49
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
+    oAuthScopes: []
+    onlySpinnakerManaged: false
+  - name: k8s-v2-acc-50
+    requiredGroupMembership: []
+    providerVersion: V2
+    permissions: {}
+    dockerRegistries: []
+    configureImagePullSecrets: true
+    cacheThreads: 1
+    namespaces:
+    - ns11
+    - ns12
+    - ns13
+    - ns14
+    - ns15
+    omitNamespaces: []
+    kinds: []
+    omitKinds: []
+    customResources: []
+    cachingPolicies: []
+    kubeconfigFile: /home/spinnaker/staging/.kube/config
+    checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
