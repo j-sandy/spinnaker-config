@@ -3,7 +3,6 @@ kubernetes:
   accounts:
   - name: k8s-v2-acc-1
     liveManifestCalls: true
-    liveManifestCalls: true
     requiredGroupMembership: []
     providerVersion: V2
     permissions: {}
