@@ -16,6 +16,7 @@ kubernetes:
       - ns13
       - ns14
       - ns15
+      - ns16
     omitNamespaces: []
     kinds: []
     omitKinds: 
