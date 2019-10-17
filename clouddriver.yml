@@ -17,6 +17,66 @@ kubernetes:
       - ns14
       - ns15
       - ns16
+      - ns111
+      - ns121
+      - ns131
+      - ns141
+      - ns151
+      - ns112
+      - ns122
+      - ns132
+      - ns142
+      - ns152
+      - ns113
+      - ns123
+      - ns133
+      - ns143
+      - ns153
+      - ns114
+      - ns124
+      - ns134
+      - ns144
+      - ns154
+      - ns115
+      - ns125
+      - ns135
+      - ns145
+      - ns155
+      - ns116
+      - ns126
+      - ns136
+      - ns146
+      - ns156
+      - ns117
+      - ns127
+      - ns137
+      - ns147
+      - ns157
+      - ns118
+      - ns128
+      - ns138
+      - ns148
+      - ns158
+      - ns119
+      - ns129
+      - ns139
+      - ns149
+      - ns159
+      - ns11a
+      - ns12a
+      - ns13a
+      - ns14a
+      - ns15a
+      - ns11b
+      - ns12b
+      - ns13b
+      - ns14b
+      - ns15b
+      - ns11c
+      - ns12c
+      - ns13c
+      - ns14c
+      - ns15c
     omitNamespaces: []
     kinds: []
     omitKinds: 
