@@ -33,7 +33,7 @@ kubernetes:
     - podSecurityPolicy
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/2054179555-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -68,7 +68,7 @@ kubernetes:
     - podSecurityPolicy
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/2054179555-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -103,7 +103,7 @@ kubernetes:
     - podSecurityPolicy
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/2054179555-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -138,7 +138,7 @@ kubernetes:
     - podSecurityPolicy
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/2054179555-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -173,7 +173,7 @@ kubernetes:
     - podSecurityPolicy
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/2054179555-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -208,7 +208,7 @@ kubernetes:
     - podSecurityPolicy
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/2054179555-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -243,7 +243,7 @@ kubernetes:
     - podSecurityPolicy
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/2054179555-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -278,7 +278,7 @@ kubernetes:
     - podSecurityPolicy
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/2054179555-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -313,7 +313,7 @@ kubernetes:
     - podSecurityPolicy
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/2054179555-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -348,7 +348,7 @@ kubernetes:
     - podSecurityPolicy
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/2054179555-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -383,7 +383,7 @@ kubernetes:
     - podSecurityPolicy
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/2054179555-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -418,7 +418,7 @@ kubernetes:
     - podSecurityPolicy
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/2054179555-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
@@ -451,7 +451,8 @@ kubernetes:
     - podSecurityPolicy
     customResources: []
     cachingPolicies: []
-    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/1573052617-config
+    kubeconfigFile: /home/spinnaker/.hal/default/staging/dependencies/2054179555-config
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
+
