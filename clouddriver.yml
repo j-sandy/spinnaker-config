@@ -1,7 +1,7 @@
 kubernetes:
   enabled: true
   accounts:
-  - name: k8s-v2-acc-1-changed
+  - name: k8s-v2-acc-1
     liveManifestCalls: true
     requiredGroupMembership: []
     providerVersion: V2
@@ -316,7 +316,7 @@ kubernetes:
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
-  - name: k8s-v2-acc-10-changed
+  - name: k8s-v2-acc-10
     liveManifestCalls: true
     requiredGroupMembership: []
     providerVersion: V2
